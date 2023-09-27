@@ -9,7 +9,7 @@ I embrace challenges as opportunities, and I'm determined to shape a future wher
 
 ### 👩🏻‍💻 My process 
 
-Since the beginning of this year (2023), I've been diving into the world of iOS development. You can see all the courses I've been geeking out on over on my LinkedIn profile!
+Since the beginning of this year (2023), I've been diving into the world of iOS development. You can see all the courses I've been exploring on over on my LinkedIn profile!
 
 These courses have been more than just a learning experience; they've kindled a real passion within me. I've come to love the process of crafting awesome mobile apps and even a website. And guess what? I'm now all in, ready to embrace a new adventure: a career in iOS development.
 
