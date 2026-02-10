@@ -7,13 +7,11 @@ I write clean, tested Swift/SwiftUI and care about performance, accessibility an
 With a Product Owner background, I collaborate well in Agile teams, communicate clearly and keep delivery moving. 
 
 I’m keen to keep learning and contribute to thoughtful, user-centred mobile experiences.
-
 <br/><hr>
 
 ### 👩🏻‍💻 My process 
 
 I’ve been learning and building iOS apps since 2022, focusing on Swift/SwiftUI, clean architecture and testing. I enjoy turning ideas into polished, user-friendly products and I’m always improving performance, accessibility and UX details as I go.
-
 <br/><hr>
 
 
